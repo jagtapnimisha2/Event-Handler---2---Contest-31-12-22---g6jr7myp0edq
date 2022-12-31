@@ -12,10 +12,11 @@ const App = () => {
   return (
     <div id="main">
        <button id="button-a" onClick={handleClick}>Button A</button>
-      <button id="button-b" onClick={handleClick}>Button B</button>
+       <button id="button-b" onClick={handleClick}>Button B</button>
     </div>
   )
 }
 
 
 export default App;
+
